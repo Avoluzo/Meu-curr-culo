@@ -1,2 +1,2 @@
-# Meu-curr-culo
+# Meu-curriculo
 Meu Currículo profissional 
